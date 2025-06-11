@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fathimaanalysist
-- 	![fathimaanalysist]([image.jpg](https://github.com/fathimaanalysist/fathimaanalysist/blob/main/IMG20220503174516.jpg?raw=true))
+- 	![fathimaanalysist](https://github.com/fathimaanalysist/fathimaanalysist/blob/main/IMG20220503174516.jpg?raw=true)
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on ...
